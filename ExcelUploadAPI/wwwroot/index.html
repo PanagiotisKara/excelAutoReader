@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+    <title>Niro Excel File Upload</title>
+</head>
+<body>
+    <div class="container">
+        <img src="niro.png" alt="Niro Technologys">
+        <h2>Upload an Excel File</h2>
+
+        <label class="upload-area" for="fileInput">
+            <span class="upload-label">Click to Choose File</span>
+            <input type="file" id="fileInput" />
+        </label>
+
+        <div class="file-name" id="fileName">No file selected</div>
+
+        <button class="upload-btn" id="uploadBtn" onclick="uploadExcel()">Upload</button>
+
+        <div class="output" id="output"></div>
+    </div>
+    <div id="output">
+        <h3>Extracted Data:</h3>
+        <!-- <----------------------------------------------------------------- table values ----------------------------------------------------------------->
+            <div id="dataTableContainer" style="display: none;">
+                <table id="dataTable">
+                    <thead>
+                        <tr>
+                            <th>Num</th>
+                            <th>crmbatrid</th>
+                            <th>preInvoicedocNo</th>
+                            <th>baTR_Amount</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+    </div>  
+</body>
+</html>
