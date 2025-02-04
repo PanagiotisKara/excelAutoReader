@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "Hash": "fqJY5BEhNio2C+H6ItWcX4zj/6sO8PFXCB9UsGDOHic=",
+  "Source": "ExcelUploadAPI",
+  "BasePath": "_content/ExcelUploadAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ExcelUploadAPI\\wwwroot",
+      "Source": "ExcelUploadAPI",
+      "ContentRoot": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\",
+      "BasePath": "_content/ExcelUploadAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\vcq9m21nc7-tcei1eeleq.gz",
+      "SourceId": "ExcelUploadAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ExcelUploadAPI",
+      "RelativePath": "index#[.{fingerprint=tcei1eeleq}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zub1p6vgvx",
+      "Integrity": "tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html",
+      "SourceId": "ExcelUploadAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\",
+      "BasePath": "_content/ExcelUploadAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tcei1eeleq",
+      "Integrity": "LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\niro.png",
+      "SourceId": "ExcelUploadAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\",
+      "BasePath": "_content/ExcelUploadAPI",
+      "RelativePath": "niro#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oocln5k45p",
+      "Integrity": "iOHuIJDt+FTEAEOqYylhp9QvYTeOaG3rhi10P8bGJVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\niro.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\vcq9m21nc7-tcei1eeleq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000449034576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2226"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\vcq9m21nc7-tcei1eeleq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y="
+        }
+      ]
+    },
+    {
+      "Route": "index.tcei1eeleq.html",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\vcq9m21nc7-tcei1eeleq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000449034576"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2226"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcei1eeleq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.tcei1eeleq.html",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcei1eeleq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LdLvlb80Npl5C0l+eNryoYcH6+lchsZIXjEraRF5gg4="
+        }
+      ]
+    },
+    {
+      "Route": "index.tcei1eeleq.html.gz",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\obj\\Debug\\net9.0\\compressed\\vcq9m21nc7-tcei1eeleq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 14:35:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tcei1eeleq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tYxkqrbs0RbiDMyQ9LjNJfzUYIOvRlh3lunIlkxXk/Y="
+        }
+      ]
+    },
+    {
+      "Route": "niro.oocln5k45p.png",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\niro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iOHuIJDt+FTEAEOqYylhp9QvYTeOaG3rhi10P8bGJVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 14:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oocln5k45p"
+        },
+        {
+          "Name": "label",
+          "Value": "niro.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iOHuIJDt+FTEAEOqYylhp9QvYTeOaG3rhi10P8bGJVI="
+        }
+      ]
+    },
+    {
+      "Route": "niro.png",
+      "AssetFile": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\niro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iOHuIJDt+FTEAEOqYylhp9QvYTeOaG3rhi10P8bGJVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 24 Jan 2025 14:28:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iOHuIJDt+FTEAEOqYylhp9QvYTeOaG3rhi10P8bGJVI="
+        }
+      ]
+    }
+  ]
+}

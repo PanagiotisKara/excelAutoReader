@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoGqgsJOxOY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\ExcelUploadAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\exceldatareader\\3.7.0\\exceldatareader.3.7.0.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\exceldatareader.dataset\\3.7.0\\exceldatareader.dataset.3.7.0.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\selenium.support\\4.28.0\\selenium.support.4.28.0.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\ikarampakakis\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.15900\\selenium.webdriver.chromedriver.132.0.6834.15900.nupkg.sha512"
+  ],
+  "logs": []
+}

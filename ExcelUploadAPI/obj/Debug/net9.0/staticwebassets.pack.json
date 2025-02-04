@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ikarampakakis\\Desktop\\ExcelUploader\\ExcelUploadAPI\\wwwroot\\niro.png",
+      "PackagePath": "staticwebassets\\niro.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExcelUploadAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ExcelUploadAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ExcelUploadAPI.props",
+      "PackagePath": "build\\ExcelUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ExcelUploadAPI.props",
+      "PackagePath": "buildMultiTargeting\\ExcelUploadAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ExcelUploadAPI.props",
+      "PackagePath": "buildTransitive\\ExcelUploadAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
