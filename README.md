@@ -1,7 +1,7 @@
 # Automated EXCEL Data Extractor
 using _ExcelDataReader's API_
 ## Usage
-reading the name of **first column** and **extracting** the data of the columns with the **specified name**
+reading the name of **first row** and **extracting** the data of the columns with the **specified name**
 ## Programming languages
 ```
 html - css - javascript - c# 
